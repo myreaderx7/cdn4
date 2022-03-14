@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300" height="300" viewBox="0 0 300 300"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <desc>Line height accounting for strut.</desc>
+
+  <path d="m 25,193.75 h 250" style="fill:none;stroke:#add8e6"/>
+
+  <rect x="37.5"   y="241.25" width="222.5"  height="26.25" style="fill:#d5e5ff"/>
+  <rect x="37.5"   y="117.5"  width="68.25"  height="100.0" style="fill:none;stroke:#0000ff"/>
+  <g style="fill:none;stroke:#ff0000;stroke-dasharray: 5,5">
+    <rect x="106.25" y="41.25"  width="153.75" height="200.0"/>
+    <rect x="37.5"   y="67.5"   width="68.75"  height="200.0"/>
+  </g>
+  <rect x="37.5"   y="41.25"  width="222.5"  height="226.25" style="fill:none;stroke:#ff0000;opacity:0.5"/>
+
+  <!--
+    <text x="37.5" y="193.75" style="font-family:'DejaVu Sans'">
+      <tspan style="font-size:100px">A</tspan>
+      <tspan style="font-size:200px">D</tspan>
+    </text>
+    -->
+  <path d="m 145.21484,64.160156 v 113.378904 h 23.82813 q 30.17578,0 44.14062,-13.67187 14.0625,-13.67188 14.0625,-43.16406 0,-29.29688 -14.0625,-42.871099 -13.96484,-13.671875 -44.14062,-13.671875 z m -19.72656,-16.210937 h 40.52734 q 42.38282,0 62.20704,17.675781 19.82421,17.578125 19.82421,55.07813 0,37.69531 -19.92187,55.37109 -19.92188,17.67578 -62.10938,17.67578 h -40.52734 z m -53.808593,82.617191 -13.378906,36.27929 h 26.806641 z m -5.566406,-9.7168 h 11.181641 l 27.783208,72.90039 h -10.253911 l -6.640625,-18.70117 h -32.861328 l -6.640625,18.70117 h -10.400391 z"/>
+</svg>
+
